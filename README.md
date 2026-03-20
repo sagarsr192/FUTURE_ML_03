@@ -10,6 +10,13 @@ This project builds an NLP-based resume screening system that:
 
 It is designed to satisfy the Future Interns Machine Learning Task 3 (2026) requirements.
 
+## Live Application
+
+- Streamlit Cloud URL: `Add your deployed URL here`
+- Example format: `https://your-app-name.streamlit.app`
+
+After deployment, replace the placeholder with your real live link.
+
 ## Project Structure
 
 ```
@@ -71,14 +78,24 @@ python src/resume_screening/main.py \
 ## Run Streamlit App
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The app supports:
 
 - default sample data from this repository
 - custom pasted job description
-- uploaded resume text files
+- uploaded resume `.txt` and `.pdf` files
+
+## Deploy To Streamlit Community Cloud
+
+1. Open `https://share.streamlit.io/` and sign in with your GitHub account.
+2. Click `Create app`.
+3. Select repository: `sagarsr192/FUTURE_ML_03`.
+4. Select branch: `main`.
+5. Set main file path: `app.py`.
+6. Click `Deploy`.
+7. Copy the generated app URL and update the `Live Application` section above.
 
 ## Scoring Logic
 
