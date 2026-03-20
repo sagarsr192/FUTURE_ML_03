@@ -1,0 +1,15 @@
+Role: Machine Learning Software Engineer
+
+We are hiring a Machine Learning Software Engineer to build and deploy intelligent products.
+Required skills include Python, SQL, machine learning, NLP, data analysis, cloud deployment (AWS),
+Docker, Kubernetes, Git, API development, and strong communication.
+
+Responsibilities:
+- Build and optimize ML models for text analytics and ranking systems
+- Develop ETL pipelines and production-grade APIs
+- Collaborate with product and hiring teams to improve candidate screening quality
+- Monitor model quality and improve explainability of predictions
+
+Nice to have:
+- Experience with Streamlit dashboards
+- Experience with recommendation systems

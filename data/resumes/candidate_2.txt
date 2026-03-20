@@ -1,0 +1,6 @@
+Name: Mohan Iyer
+Summary: Backend engineer focused on Java microservices and cloud systems.
+Skills: Java, Spring Boot, MySQL, AWS, Docker, Kubernetes, Git, REST APIs.
+Experience:
+- Designed scalable API systems on AWS.
+- Limited exposure to machine learning.

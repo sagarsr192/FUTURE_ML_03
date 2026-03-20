@@ -1,0 +1,6 @@
+Name: Vikram Sen
+Summary: MLOps engineer with strong deployment and cloud expertise.
+Skills: Python, AWS, Docker, Kubernetes, CI/CD, Git, monitoring, APIs.
+Experience:
+- Managed model deployment pipelines and container orchestration.
+- Worked with model serving, but less focus on NLP feature engineering.

@@ -1,0 +1,6 @@
+Name: Rhea Shah
+Summary: Data analyst transitioning to machine learning engineering.
+Skills: Python, SQL, Tableau, statistics, data visualization, communication.
+Experience:
+- Created dashboards and predictive analytics reports.
+- Basic hands-on with NLP and recommendation models.

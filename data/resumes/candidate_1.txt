@@ -1,0 +1,6 @@
+Name: Aditi Rao
+Summary: Python developer with 3 years experience in NLP and data science projects.
+Skills: Python, SQL, scikit-learn, pandas, NLP, Docker, Git, communication, APIs.
+Experience:
+- Built a resume parser and job matching model using TF-IDF and cosine similarity.
+- Deployed models with Docker and AWS EC2.

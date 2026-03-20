@@ -1,0 +1,6 @@
+Name: Neha Kapoor
+Summary: Graduate with internship experience in NLP and text mining.
+Skills: Python, NLP, machine learning, pandas, scikit-learn, communication, Git.
+Experience:
+- Implemented skill extraction from resumes and role descriptions.
+- Built prototype Streamlit applications for recruiters.
